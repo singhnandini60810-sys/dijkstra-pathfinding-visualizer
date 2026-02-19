@@ -22,7 +22,7 @@ Closed nodes
 
 Final shortest path
 
-🛠 Technologies Used
+Technologies Used
 
 Python
 
